@@ -1,2 +1,2 @@
-# Neural-Networks-C-
+# Neural Networks C++
 Neural networks implemeneted in C++.
